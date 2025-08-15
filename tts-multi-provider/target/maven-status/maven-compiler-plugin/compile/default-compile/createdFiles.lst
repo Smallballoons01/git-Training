@@ -1,0 +1,5 @@
+com/example/tts/TtsProvider.class
+com/example/tts/providers/ElevenLabsTtsProvider.class
+com/example/tts/providers/GoogleTtsProvider.class
+com/example/tts/providers/AzureTtsProvider.class
+com/example/tts/DemoMain.class
