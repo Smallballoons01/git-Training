@@ -2,6 +2,8 @@ export function greet(name = 'Git') {
   console.log('debug');
   console.log('debug');
   console.log('debug');
+  console.log('debug');
+  console.log('debug');
   return `Hell, ${name}!`;
 }
 
