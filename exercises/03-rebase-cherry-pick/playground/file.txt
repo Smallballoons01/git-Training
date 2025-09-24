@@ -4,3 +4,5 @@ gamma
 delta
 typo
 main-only
+feat
+log
